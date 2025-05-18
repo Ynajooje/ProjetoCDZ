@@ -1,6 +1,6 @@
 🛡️ Projeto Cavaleiros do Zodíaco
 ---
-Este projeto é uma homenagem à clássica série Cavaleiros do Zodíaco (Saint Seiya), trazendo suas principais características para um ambiente digital interativo. A ideia é proporcionar aos fãs uma forma de explorar personagens, constelações, batalhas e muito mais!
+Este projeto é uma homenagem à clássica série Cavaleiros do Zodíaco (Saint Seiya), trazendo suas principais características para um ambiente digital interativo. A ideia é proporcionar aos fãs uma forma de explorar personagens, constelações junto a tecnologia!
 
 ## Objetivo
 Scripts simples com intuito de testar minhas habilidades em lógica de programação.
